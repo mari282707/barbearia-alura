@@ -1,5 +1,5 @@
 #banner {
-    widht:100%;
+    width:100%;
 }
 
 .principal{
@@ -12,6 +12,18 @@
 }
 
 .titulo-centralizado {
-    text-aling: center
+    text-align: center
 }
 
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+
+    
